@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[MightyGrid]]></title>
-        <description><![CDATA[MightyGrid]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[The MightyDutchman's Artificial Intelligence driven site.]]></title>
+        <description><![CDATA[The MightyDutchman's Artificial Intelligence driven site.]]></description>
+        <link>https://thegrid.ai/mightygrid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 13:13:12 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Apr 2016 13:42:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mightygrid/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MightyDutchMan®-Times]]></title>
+            <description><![CDATA[<article><h1>MightyDutchMan®-Times</h1><p>MightyDutchMan®-Times, by Mark Polane: The news according to the MightyDutchman</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea2c1da8d2e5e9b26959d91d58566bc3b0caceb1.png"></article>]]></description>
+            <link>http://mightydutchman.net/</link>
+            <guid isPermaLink="false">b6be0f14-c652-400a-a2cc-cf84962f8d6d</guid>
+            <pubDate>Mon, 11 Apr 2016 13:42:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[MightyDutchman Goes "AI"]]></title>
             <description><![CDATA[<article><h1>MightyDutchman Goes "AI"</h1><p>Artificial Intelligence driven MightyDutchman content.</p></article>]]></description>
-            <link>undefinedmightydutchman-goes-ai/index.html</link>
+            <link>https://thegrid.ai/mightygrid/mightydutchman-goes-ai/index.html</link>
             <guid isPermaLink="false">f2a4957b-554a-49a7-922b-1b7e2caa3185</guid>
             <pubDate>Mon, 11 Apr 2016 13:13:01 GMT</pubDate>
         </item>
