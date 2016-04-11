@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MightyGrid]]></title>
+        <description><![CDATA[MightyGrid]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 11 Apr 2016 13:13:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MightyDutchman Goes "AI"]]></title>
+            <description><![CDATA[<article><h1>MightyDutchman Goes "AI"</h1><p>Artificial Intelligence driven MightyDutchman content.</p></article>]]></description>
+            <link>undefinedmightydutchman-goes-ai/index.html</link>
+            <guid isPermaLink="false">f2a4957b-554a-49a7-922b-1b7e2caa3185</guid>
+            <pubDate>Mon, 11 Apr 2016 13:13:01 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
