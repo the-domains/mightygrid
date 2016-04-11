@@ -2,6 +2,7 @@ name: MightyGrid
 favicon: null
 layout_spectrum: 0.8870105044916272
 typography_spectrum: 0.7662705450784415
+title: "The MightyDutchman's Artificial Intelligence driven site."
 cta:
   domain: null
   bucket: null
