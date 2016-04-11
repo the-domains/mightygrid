@@ -4,11 +4,18 @@
         <description><![CDATA[The MightyDutchman's Artificial Intelligence driven site.]]></description>
         <link>https://thegrid.ai/mightygrid/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 11 Apr 2016 13:42:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2016 13:59:10 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mightygrid/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
+            <title><![CDATA[The power of the universe!]]></title>
+            <description><![CDATA[<article><h1>The power of the universe!</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a19e82af-e5a8-4a35-b28f-3cbdbd1f6d4b.png"></article>]]></description>
+            <link>https://thegrid.ai/mightygrid/the-power-of-the-universe/index.html</link>
+            <guid isPermaLink="false">b3e71040-a4a1-4b7b-92b9-4f84c7279074</guid>
+            <pubDate>Mon, 11 Apr 2016 13:58:56 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[MightyDutchMan®-Times]]></title>
-            <description><![CDATA[<article><h1>MightyDutchMan®-Times</h1><p>MightyDutchMan®-Times, by Mark Polane: The news according to the MightyDutchman</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ea2c1da8d2e5e9b26959d91d58566bc3b0caceb1.png"></article>]]></description>
+            <description><![CDATA[<article><h1>MightyDutchMan®-Times</h1><p>MightyDutchMan®-Times, by Mark Polane: The news according to the MightyDutchman</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/df6ca9dd65a1fef0f3fbe7f23680ad65323202a1.png"></article>]]></description>
             <link>http://mightydutchman.net/</link>
             <guid isPermaLink="false">b6be0f14-c652-400a-a2cc-cf84962f8d6d</guid>
             <pubDate>Mon, 11 Apr 2016 13:42:03 GMT</pubDate>
