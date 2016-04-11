@@ -1,0 +1,28 @@
+name: MightyGrid
+favicon: null
+layout_spectrum: 0.8870105044916272
+typography_spectrum: 0.7662705450784415
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.017653379356488585
+  lightness: 0.24488001479767263
+  saturation: 0.06589372851885855
+  rhythmicContrast: 0.01811243104748428
+purpose: []
